@@ -117,7 +117,7 @@ On the Azure Communication page for the resource recently created, go to the lef
 
 On this page select the **+ Get** button to get a new phone number.
 
-![Select the Get button](/images/getphonenumber1.png)
+![Select the Get button](/images/getphonenumber01.png)
 
 Select the country to be **United States** use case to be **an application will be making calls or sending SMS messages**, the Number type as **Toll-free**, Calling to be **Outbound calling** and SMS to be **Inbound and outbound SMS**. Select Next. 
 
