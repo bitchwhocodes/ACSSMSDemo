@@ -117,15 +117,15 @@ On the Azure Communication page for the resource recently created, go to the lef
 
 On this page select the **+ Get** button to get a new phone number.
 
-![Select the Get button](/images/getphonenumber1.PNG)
+![Select the Get button](/images/getphonenumber1.png)
 
 Select the country to be **United States** use case to be **an application will be making calls or sending SMS messages**, the Number type as **Toll-free**, Calling to be **Outbound calling** and SMS to be **Inbound and outbound SMS**. Select Next. 
 
-![Configure the phone number](/images/getphonenumber2.PNG)
+![Configure the phone number](/images/getphonenumber2.png)
 
 Select area code to be 833 and quantity of 1. Select **Search**
 
-![Configure the phone number](/images/getphonenumber2PNG.PNG)
+![Configure the phone number](/images/getphonenumber2PNG.png)
 
 A new phone number will be allocated that you can use to send messages from. Note this number for later use in the python script. 
 
